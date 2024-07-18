@@ -6,7 +6,8 @@ model made link: https://drive.google.com/drive/folders/1ORUAsMcLDKH44SkoaWfpMNl
 **All dependent libraries installed:**
 Version
 ---------------------------- ---------------
-absl-py                      2.1.0\n
+absl-py                      2.1.0
+
 altair                       5.3.0
 anyio                        4.3.0
 argon2-cffi                  23.1.0
