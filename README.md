@@ -4,10 +4,9 @@ lip reading based on Grid Audio-Visual Speech Corpus speaker 1
 model made link: https://drive.google.com/drive/folders/1ORUAsMcLDKH44SkoaWfpMNlbJJpZki4Z?usp=drive_linkPackage
 
 **All dependent libraries installed:**
-Version
+Package                      Version
 ---------------------------- ---------------
 absl-py                      2.1.0
-
 altair                       5.3.0
 anyio                        4.3.0
 argon2-cffi                  23.1.0
